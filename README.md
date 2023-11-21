@@ -1,5 +1,5 @@
 #Descripcion General Del Repositorio 
-Datos del Alumno:
+#Datos del Alumno:
 
 Alumno: Francisco Abbad Ramírez Gómez
 
