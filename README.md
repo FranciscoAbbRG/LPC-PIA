@@ -1,6 +1,6 @@
-# Descripcion General Del Repositorio 
-#Datos del Alumno:
+#Descripcion General Del Repositorio 
+Datos del Alumno:
 
-#Alumno: Francisco Abbad Ramírez Gómez
+Alumno: Francisco Abbad Ramírez Gómez
 
-#Matricula: 1872531
+Matricula: 1872531
