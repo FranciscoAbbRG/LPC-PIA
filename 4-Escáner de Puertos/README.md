@@ -9,3 +9,5 @@ scan_portv1: realiza un escaneo a la red para determinar qué puertos están abi
 scan_portv2: crea un bucle con todas las ip para comprobar en cuál ip está abierto algún puerto.
 
 scan_portv3: de acuerdo a una ip y un rango determina qué puertos están abiertos.
+
+script_python_nmap.py: script de python con un menu que tiene los demas comandos del modulo python-nmap
