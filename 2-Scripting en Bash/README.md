@@ -4,11 +4,11 @@ Familiarizarse con scripts en bash y asi poder obtener los puertos abiertos
 # Descripción:
 Los scripts:
 
-Welcome : saluda al usuario, da la fecha y los procesos que están ejecutando los usuarios. 
+Welcome: saluda al usuario, da la fecha y los procesos que están ejecutando los usuarios. 
 
-Bro : solicita un nombre y saluda 
+Bro: solicita un nombre y saluda 
 
-Number : solicita 3 números y los lee 
+Number: solicita 3 números y los lee 
 
 Netdiscover: escanea la red para determinar los equipos activos 
 
