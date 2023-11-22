@@ -1,5 +1,5 @@
 # Objetivo:
-Programar la ejecucion de una tarea
+Programar la ejecución de una tarea
 
 # Descripción: 
 Los scripts:
