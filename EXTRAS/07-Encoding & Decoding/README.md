@@ -1,5 +1,5 @@
 # Objetivo:
-Muestrar diferentes maneras de codificar, decodificar y cifrar un texto o imagen
+Mostrar diferentes maneras de codificar, decodificar y cifrar un texto o imagen
 
 # Descripción:
 Los scripts:
