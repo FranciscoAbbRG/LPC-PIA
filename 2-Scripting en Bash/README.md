@@ -12,6 +12,6 @@ Number : solicita 3 números y los lee
 
 Netdiscover: escanea la red para determinar los equipos activos 
 
-Portscan: escanea distintos puertos para determinar cuál se encuentra abierto 
+Portscanv1: escanea distintos puertos para determinar cuál se encuentra abierto 
 
 Superscan: crea un menú para ejecutar los scripts netdiscover, portscan y welcome
