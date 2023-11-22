@@ -1,2 +1,2 @@
 # EXTRAS
-Mas Practicas
+Más Practicas
